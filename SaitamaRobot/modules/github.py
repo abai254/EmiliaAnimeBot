@@ -1,8 +1,8 @@
 from telegram import ParseMode, Update, Bot
 from telegram.ext import run_async
 
-from tg_bot.modules.disable import DisableAbleCommandHandler
-from tg_bot import dispatcher
+from SaitamaRobot.modules.disable import DisableAbleCommandHandler
+from SaitamaRobot import dispatcher
 
 from requests import get
 
