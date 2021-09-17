@@ -63,7 +63,7 @@ You can find my list of available commands with` *🔐Commands*
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD EMILIA TO YOUR GROUP ➕️",url="t.me/EmiliaAnimeRoBot?startgroup=true"
+            text="➕️ ADD EMILIATO YOUR GROUP ➕️",url="t.me/EmiliaAnimeRoBot?startgroup=true"
         ),
     ],
     [
