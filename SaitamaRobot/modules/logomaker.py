@@ -1,6 +1,6 @@
-from EmiliaAnimeBot.events import register
-from EmiliaAnimeBot import OWNER_ID
-from EmiliaAnimeBot import telethn as tbot
+from SaitamaRobot.events import register
+from SaitamaRobot import OWNER_ID
+from SaitamaRobot import telethn as tbot
 import os
 import random
 from PIL import Image, ImageDraw, ImageFont
@@ -8,13 +8,13 @@ from PIL import Image, ImageDraw, ImageFont
 
 logopics = [
  
- "./EmiliaAnimeBot/SaitamaRobot/resources/photo_2021-09-11_10-52-54.jpg"
+ "./If-XP-on/SaitamaRobot/resources/photo_2021-09-11_10-52-54.jpg"
  
 ]
 
 logofonts = [
  
- ".EmiliaAnimeBot/Saitamarobot/resources/Beyblade Metal Fight Font.ttf"
+ ".If-XP-on/Saitamarobot/resources/BeybladeMetalFightFont.ttf"
  
 ]
 
